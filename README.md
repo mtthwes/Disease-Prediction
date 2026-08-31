@@ -100,6 +100,7 @@ PCA at 30 components, then clustering with k=15.
 FinalProj3715.ipynb     Main notebook (all code)
 FinalProj3715.tex       LaTeX export
 FinalProj3715.html      HTML export
+Dataset.csv             Dataset
 /figures                Generated plots
 /reports                Proposal, progress reports, final report, lightning talk
 ```
